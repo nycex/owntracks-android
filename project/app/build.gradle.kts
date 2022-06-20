@@ -172,7 +172,7 @@ val kotlinCoroutinesVersion = "1.4.1"
 val jaxbVersion = "3.0.1"
 
 dependencies {
-    implementation("androidx.preference:preference:1.1.1")
+    implementation("androidx.preference:preference:1.2.0")
     implementation("com.takisoft.preferencex:preferencex:1.1.0")
     implementation("com.google.android.material:material:1.3.0")
 
