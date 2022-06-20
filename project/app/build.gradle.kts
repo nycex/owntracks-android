@@ -193,7 +193,7 @@ dependencies {
     implementation("com.google.dagger:dagger-android-support:${daggerVersion}")
     implementation("com.google.dagger:dagger-android:${daggerVersion}")
 
-    implementation("org.greenrobot:eventbus:3.2.0")
+    implementation("org.greenrobot:eventbus:3.3.1")
     implementation("org.eclipse.paho:org.eclipse.paho.client.mqttv3:1.2.5")
 
     implementation("com.squareup.okhttp3:okhttp:${okHttpVersion}")
